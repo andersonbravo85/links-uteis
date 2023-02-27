@@ -304,10 +304,12 @@
 <p class="links_uteis" ><a target="_blank" href="https://www.partners.skyscanner.net/affiliates/travel-apis">Preço de voos</a></p>
 
 <h3>Página de Links</h3>
-<p class="links_uteis" ><a target="_blank"href="https://conecta.bio/">conecta.bio</a></p>
-<p class="links_uteis" ><a target="_blank"href="https://linktr.ee/">linktr.ee</a></p>
-<p class="links_uteis" ><a target="_blank"https://meuslinks.ml/">meuslinks.ml</a></p>
-<p class="links_uteis" ><a target="_blank"https://meuslinks.digital/">meuslinks.digital</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://allinks.me/">allinks.me</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://allmylinks.com/">allmylinks.com</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://conecta.bio/">conecta.bio</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://linktr.ee/">linktr.ee</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://meuslinks.ml/">meuslinks.ml</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://meuslinks.digital/">meuslinks.digital</a></p>
 
 <h3>Fontes</h3>
 <p class="links_uteis" ><a target="_blank"href="https://www.myfonts.com/pages/whatthefont">Descubra qual a fonte usada</a></p>
