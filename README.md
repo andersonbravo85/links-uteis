@@ -303,6 +303,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://currencylayer.com/">Câmbio de moedas</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://rapidapi.com/pt/Coinranking/api/coinranking1">Criptomoedas</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://postmon.com.br/">CEP</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://viacep.com.br/">CEP 2</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.partners.skyscanner.net/affiliates/travel-apis">Preço de voos</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://swapi.dev/">Star Wars</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.football-data.org/">Futebol</a></p>
