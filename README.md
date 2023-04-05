@@ -302,6 +302,11 @@
 <p class="links_uteis" ><a target="_blank" href="https://rapidapi.com/pt/Coinranking/api/coinranking1">Criptomoedas</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://postmon.com.br/">CEP</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.partners.skyscanner.net/affiliates/travel-apis">Preço de voos</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://swapi.dev/">Star Wars</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://www.football-data.org/">Futebol</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://goqr.me/api/">Qr Code</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://disneyapi.dev/">Disney</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://api.nasa.gov/">Nasa</a></p>
 
 <h3>Página de Links</h3>
 <p class="links_uteis" ><a target="_blank" href="https://allinks.me/">allinks.me</a></p>
