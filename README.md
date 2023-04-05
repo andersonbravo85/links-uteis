@@ -86,6 +86,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://flatuicolors.com/">flatuicolors.com</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.happyhues.co/">happyhues.co</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://paletton.com/">paletton.com</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://picular.co/">picular.co</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.w3schools.com/colors/colors_picker.asp">w3schools.com/colors/colors_picker</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://colors.eva.design/">colors.eva.design</a></p>
 
