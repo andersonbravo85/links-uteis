@@ -377,6 +377,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://www.multcloud.com/">www.multcloud.com</a></p>
 
 <h3>Utilitários Online</h3>
+<p class="links_uteis" ><a target="_blank" href="https://www.useblackbox.io/search">useblackbox.io - pesquisa de códigos pronto</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://pagespeed.web.dev/">PageSpeed Insights</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://whatismyscreenresolution.net/">Resolução da tela</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://www.isresponsive.com/">Exibir página em várias resoluções</a></p>
