@@ -352,6 +352,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://www.minifier.org/">Compressor CSS e JS</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://css2js.dotenv.dev/">css2js.dotenv.dev</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://www.joao.pro.br/aplicativos/netcalc.htm">Calculadora de Rede</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://gprm.itsvg.in/">Gerador de perfil para Github</a></p>
 
 <h3>PDF</h3>
 <p class="links_uteis" ><a target="_blank" href="https://www.pdfescape.com/">pdfescape.com</a></p>
