@@ -188,6 +188,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://pixelied.com/">pixelied.com</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://www.freelogoservices.com/pt">freelogoservices.com</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://www.onlinelogomaker.com/">onlinelogomaker.com</a></p>
+<p class="links_uteis" ><a target="_blank" href="https://www.renderforest.com/">renderforest.com</a></p>
 
 <h3>Player de Música/Vídeo</h3>
 <p class="links_uteis" ><a target="_blank" href="http://www.schillmania.com/projects/soundmanager2/">schillmania.com/projects/soundmanager2</a></p>
@@ -383,6 +384,7 @@
 <p class="links_uteis" ><a target="_blank" href="https://www.multcloud.com/">www.multcloud.com</a></p>
 
 <h3>Utilitários Online</h3>
+<p class="links_uteis" ><a target="_blank" href="https://chat.openai.com/auth/login">Chat GPT</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://www.useblackbox.io/search">useblackbox.io - pesquisa de códigos pronto</a></p>
 <p class="links_uteis" ><a target="_blank" href="https://pagespeed.web.dev/">PageSpeed Insights</a></p>
 <p class="links_uteis" ><a target="_blank" href="http://whatismyscreenresolution.net/">Resolução da tela</a></p>
